@@ -9,7 +9,7 @@
             "request": "launch",
             "name": "Launch Program",
             "type": "node",
-            "program": "${workspaceFolder}/increasingTriplets.ts",
+            "program": "${workspaceFolder}/compressStrings.ts",
             "cwd": "${workspaceFolder}",
             "env": {},
             "runtimeExecutable": "/home/nloomis/.local/share/nvim/mason/bin/deno",
